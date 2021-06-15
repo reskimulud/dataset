@@ -1,4 +1,4 @@
-Date/Time,Year,Month,Day,Mean Temp (C),Max Temp (C),Min Temp (C),Total Rain (mm),Total Snow (cm),Total Precip (mm),season
+Datetime,Year,Month,Day,Mean Temp (C),Max Temp (C),Min Temp (C),Total Rain (mm),Total Snow (cm),Total Precip (mm),season
 31-Jan-18,"2,018",1,31,-7,2,-15,0,1,1,Winter
 30-Jan-18,"2,018",1,30,-11,-7,-15,0,0,0,Winter
 29-Jan-18,"2,018",1,29,-4,-2,-7,0,5,5,Winter
